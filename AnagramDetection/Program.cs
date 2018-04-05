@@ -34,6 +34,7 @@ namespace AnagramDetection
 
 		private static bool LookUpCompare(ILookup<string, char> target, ILookup<string, char> source)
 		{
+			// target.SequenceEqual(source);
 			foreach (var item in source)
 			{
 				var compare = target.Where(o => o.Key == item.Key && o.Count() == item.Count());
