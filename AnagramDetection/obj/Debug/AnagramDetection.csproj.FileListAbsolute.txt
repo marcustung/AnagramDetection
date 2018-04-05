@@ -14,3 +14,5 @@ C:\Users\marcus.tung21\source\repos\AnagramDetection\AnagramDetection\bin\Debug\
 C:\Users\marcus.tung21\source\repos\AnagramDetection\AnagramDetection\bin\Debug\Mono.Cecil.dll
 C:\Users\marcus.tung21\source\repos\AnagramDetection\AnagramDetection\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\Users\marcus.tung21\source\repos\AnagramDetection\AnagramDetection\bin\Debug\nunit.framework.pdb
+D:\git\AnagramDetection\AnagramDetection\obj\Debug\AnagramDetection.exe
+D:\git\AnagramDetection\AnagramDetection\obj\Debug\AnagramDetection.pdb
